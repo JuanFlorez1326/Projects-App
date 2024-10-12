@@ -1,7 +1,6 @@
 <template>
   <div class="overflow-x-auto w-full">
     <table class="table">
-      <!-- head -->
       <thead>
         <tr>
           <th></th>

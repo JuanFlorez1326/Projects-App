@@ -1,6 +1,16 @@
-# projects-app
+<p align="center">
+  <a href="https://vuejs.org/" target="blank">
+    <img src="./public/favicon.ico" width="50" alt="Vue Logo" />
+  </a>
+</p>
+
+# Projects App
 
 This template should help get you started developing with Vue 3 in Vite.
+
+## Techs and Tools
+
+`Vite - Vue - Pinia - TypeScript - DaisyUI - TailwindCSS - CSS`
 
 ## Recommended IDE Setup
 
